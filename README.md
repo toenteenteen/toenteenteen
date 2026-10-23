@@ -20,7 +20,7 @@ My work spans banking, financial services, telecommunications, hospitality, ener
 
 | Application security | Infrastructure | Professional proof |
 | :--- | :--- | :--- |
-| **23** web applications | **5** external network projects | **29** professional credentials |
+| **23** web applications | **5** external network projects | **36** hosted certificates & awards |
 | **9** mobile applications | **3** internal network projects | **#42** HTB global CTF rank |
 | Core banking, EDC, thick client | **~300** internet-facing assets | **2×** speaker at IT KMITL |
 
@@ -74,16 +74,16 @@ Additional work includes PyATS network automation, hardened AWS web infrastructu
 
 <table>
   <tr>
-    <td width="50%"><a href="https://drive.google.com/file/d/14pgRF3GAL-3A16vdB3XuE-GAvldIx_Cp/view"><img src="./assets/certs/cape.jpg" alt="HTB CAPE certificate" width="100%" /></a></td>
-    <td width="50%"><a href="https://drive.google.com/file/d/1S5fXd5OWLymzU-VQpsLAStkQMa_yDmq-/view"><img src="./assets/certs/capenx.jpg" alt="CAPenX certificate" width="100%" /></a></td>
+    <td width="50%"><a href="https://noppanut-cybersecurity.tkotkl.chatgpt.site/assets/certificates/cape.pdf"><img src="./assets/certs/cape.jpg" alt="HTB CAPE certificate" width="100%" /></a></td>
+    <td width="50%"><a href="https://noppanut-cybersecurity.tkotkl.chatgpt.site/assets/certificates/capenx.pdf"><img src="./assets/certs/capenx.jpg" alt="CAPenX certificate" width="100%" /></a></td>
   </tr>
   <tr>
     <td align="center"><strong>HTB CAPE</strong><br/><sub>Active Directory Pentesting Expert</sub></td>
     <td align="center"><strong>CAPenX</strong><br/><sub>AppSec Pentesting Expert</sub></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://drive.google.com/file/d/1Z65ULKmBZ9bR2aoNKV_ZPpAJcbDUzCpd/view"><img src="./assets/certs/crteamerx.jpg" alt="CRTeamerX certificate" width="100%" /></a></td>
-    <td width="50%"><a href="https://drive.google.com/file/d/1gjsDD87fXTNK5iRN2gvJTSV4Uacw4s3D/view"><img src="./assets/certs/cybernetics.jpg" alt="HTB Cybernetics Pro Lab certificate" width="100%" /></a></td>
+    <td width="50%"><a href="https://noppanut-cybersecurity.tkotkl.chatgpt.site/assets/certificates/crtx.pdf"><img src="./assets/certs/crteamerx.jpg" alt="CRTeamerX certificate" width="100%" /></a></td>
+    <td width="50%"><a href="https://noppanut-cybersecurity.tkotkl.chatgpt.site/assets/certificates/cybernetics.pdf"><img src="./assets/certs/cybernetics.jpg" alt="HTB Cybernetics Pro Lab certificate" width="100%" /></a></td>
   </tr>
   <tr>
     <td align="center"><strong>CRTeamerX</strong><br/><sub>Certified Red Teamer Expert</sub></td>
@@ -97,10 +97,10 @@ Additional work includes PyATS network automation, hardened AWS web infrastructu
 | :--- | :--- | :--- |
 | OSCP+ · OSCP · HTB CAPE | CAPenX · CAP · eWPTv2 | Microsoft Applied Skills |
 | CRTM · CRTE · CRTP | CMPen-Android · APISEC | HCIA Datacom · ISC2 CC |
-| CRTO · CRTO II · CRTA | CADPenX | CCPenX-AZ · HSCF |
-| CRTeamerX · CRTOM · MCRTA | CREB · CMAB | CKBPro · CETP · CCEP |
+| CRTO · CRTA · CRTeamerX | APISEC · CREB · CMAB | CCPenX-AZ · HSCF |
+| CRTOM · MCRTA · Cybernetics · Hades | CKBPro · CBTeamerX | CCEP · Huawei · NTT · NCSA |
 
-[Browse all 29 credentials with verification links →](https://noppanut-cybersecurity.tkotkl.chatgpt.site/#credentials)
+[Browse all 36 certificates and awards as directly hosted PDFs →](https://noppanut-cybersecurity.tkotkl.chatgpt.site/#credentials)
 
 Hands-on labs: **Hack The Box Cybernetics Pro Lab** and **Hades Pro Lab**.
 
