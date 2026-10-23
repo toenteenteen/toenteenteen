@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">NK security mark</title>
+  <desc id="desc">An original NK monogram formed from angular paths.</desc>
+  <rect width="512" height="512" rx="118" fill="#111827"/>
+  <path d="M118 358V154h57l96 121V154h58v204h-55L176 237v121z" fill="#c7f36a"/>
+  <path d="M300 256l89-102h-70l-87 103 91 101h72z" fill="#f8faf7" opacity=".94"/>
+  <circle cx="409" cy="103" r="21" fill="#6ea7ff"/>
+</svg>
