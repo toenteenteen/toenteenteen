@@ -16,6 +16,14 @@ I am a **Senior Penetration Tester at KPMG Thailand** with hands-on experience a
 
 My work spans banking, financial services, telecommunications, hospitality, energy, enterprise, and merchant-services environments.
 
+<p align="center"><sub>PROFESSIONAL &amp; ACADEMIC JOURNEY</sub></p>
+<p align="center">
+  <img src="./assets/organizations/kpmg.png" alt="KPMG" height="54" />
+  <img src="./assets/organizations/deloitte.png" alt="Deloitte" height="54" />
+  <img src="./assets/organizations/ntt.png" alt="NTT" height="54" />
+  <img src="./assets/organizations/it-kmitl.png" alt="School of Information Technology, KMITL" height="54" />
+</p>
+
 ## Impact snapshot
 
 | Application security | Infrastructure | Professional proof |
@@ -25,6 +33,16 @@ My work spans banking, financial services, telecommunications, hospitality, ener
 | Core banking, EDC, thick client | **~300** internet-facing assets | **2×** speaker at IT KMITL |
 
 ## Security focus
+
+<table>
+  <tr>
+    <td align="center" width="20%"><img src="./assets/service-icons/web.png" alt="Web application" width="58" /><br/><strong>Web &amp; API</strong></td>
+    <td align="center" width="20%"><img src="./assets/service-icons/mobile.png" alt="Mobile application" width="58" /><br/><strong>Mobile</strong></td>
+    <td align="center" width="20%"><img src="./assets/service-icons/edc.png" alt="Electronic Data Capture terminal" width="58" /><br/><strong>EDC</strong></td>
+    <td align="center" width="20%"><img src="./assets/service-icons/network.png" alt="Network security" width="58" /><br/><strong>Network</strong></td>
+    <td align="center" width="20%"><img src="./assets/service-icons/red-team.png" alt="Red team" width="58" /><br/><strong>Red Team</strong></td>
+  </tr>
+</table>
 
 - **Web, API, and mobile** - black-box and gray-box testing, authentication, authorization, sessions, business logic, and attack chaining
 - **Network and identity** - external/internal assessment, Active Directory attack paths, privilege escalation, lateral movement, and assumed breach
