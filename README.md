@@ -10,7 +10,9 @@
 
 <p align="center"><em>Offense with evidence. Improvement with purpose.</em></p>
 
-## Profile
+<p align="center"><strong>Senior Penetration Tester @ KPMG Thailand · Bangkok, Thailand</strong></p>
+
+## Executive summary
 
 I am a **Senior Penetration Tester at KPMG Thailand** with hands-on experience across application security, enterprise infrastructure, Active Directory, and adversary simulation. I test systems under authorization, connect technical weaknesses into realistic attack paths, and turn the evidence into practical remediation.
 
@@ -28,7 +30,7 @@ My work spans banking, financial services, telecommunications, hospitality, ener
 
 | Application security | Infrastructure | Professional proof |
 | :--- | :--- | :--- |
-| **23** web applications | **5** external network projects | **36** hosted certificates & awards |
+| **23** web applications | **5** external network projects | **36** certificates & awards |
 | **9** mobile applications | **3** internal network projects | **#42** HTB global CTF rank |
 | Core banking, EDC, thick client | **~300** internet-facing assets | **2×** speaker at IT KMITL |
 
@@ -78,17 +80,16 @@ Performed web, API, mobile, network, and identity assessments; contributed to in
 
 </details>
 
-## Featured work
+## Featured security projects
 
-### [Device Sync Attestation CTF](https://github.com/toenteenteen/CTF)
-
-A network-forensics challenge where players analyze PCAP traffic, reconstruct an authenticated device workflow, derive an HMAC-SHA256 signing key, and replay the protocol against a live FastAPI service.
-
-`Python` · `FastAPI` · `PCAP` · `HMAC-SHA256` · `API Security`
+| [Device Sync Attestation CTF](https://github.com/toenteenteen/CTF) | [Device Sync Attestation CTF v3](https://github.com/toenteenteen/CTF3) |
+| :--- | :--- |
+| Network-forensics challenge built around PCAP analysis, authenticated device workflows, HMAC-SHA256 key derivation, and protocol replay against a live FastAPI service. | Streamlined moderate-difficulty challenge combining DNS clues, HTTP workflow reconstruction, timestamp validation, one-time nonces, and signed requests. |
+| `Python` `FastAPI` `PCAP` `HMAC-SHA256` | `Python` `Network Forensics` `HTTP` `API Security` |
 
 Additional work includes PyATS network automation, hardened AWS web infrastructure, resilient data-center design in GNS3 and Cisco Packet Tracer, and Active Directory attack-path labs.
 
-## Selected credential evidence
+## Credential highlights
 
 <table>
   <tr>
@@ -118,7 +119,7 @@ Additional work includes PyATS network automation, hardened AWS web infrastructu
 | CRTO · CRTA · CRTeamerX | APISEC · CREB · CMAB | CCPenX-AZ · HSCF |
 | CRTOM · MCRTA · Cybernetics · Hades | CKBPro · CBTeamerX | CCEP · Huawei · NTT · NCSA |
 
-[Browse all 36 certificates and awards as directly hosted PDFs →](https://noppanut-cybersecurity.tkotkl.chatgpt.site/#credentials)
+[Explore the complete credential gallery →](https://noppanut-cybersecurity.tkotkl.chatgpt.site/#credentials)
 
 Hands-on labs: **Hack The Box Cybernetics Pro Lab** and **Hades Pro Lab**.
 
@@ -130,10 +131,10 @@ Hands-on labs: **Hack The Box Cybernetics Pro Lab** and **Hades Pro Lab**.
 
 ## Speaking and knowledge sharing
 
+Two sessions delivered with the KPMG Thailand penetration-testing team to help IT KMITL students understand offensive-security work and career paths.
+
 - **29 Sep 2025 · On-site** - “Introduction to Penetration Testing Career,” School of IT, KMITL
 - **19 Oct 2026 · Online** - Offensive Security & Career Paths, School of IT, KMITL
-
-I returned to my university as part of the KPMG Thailand penetration-testing team to introduce offensive security and help students explore possible cybersecurity career paths.
 
 ## Education
 
